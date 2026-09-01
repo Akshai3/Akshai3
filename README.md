@@ -32,7 +32,7 @@ Python • SQL • Excel • Power BI • Pandas • NumPy
 Scikit-learn • Machine Learning • NLP • RAG • Azure AI
 
 **Databases & Big Data**  
-MySQL • MongoDB • Snowflake • AWS Glue • Athena • Redshift
+MySQL • phpMyAdmin
 
 **Testing & Development**  
 Selenium • Postman • TestNG • Git • GitHub • Jupyter Notebook
