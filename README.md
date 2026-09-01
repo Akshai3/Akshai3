@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.png" alt="Akshai Biju - Data Analytics, Business Intelligence and Machine Learning" width="100%">
+  <img src="./Profile_Banner.png" alt="Akshai Biju - Data Analytics, Business Intelligence and Machine Learning" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshai Biju</h1>
