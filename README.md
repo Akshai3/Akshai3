@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akshai Biju</h1>
 
-<!--
-**Akshai3/Akshai3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Data Analyst | Business Intelligence | Machine Learning
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Turning raw data into meaningful insights, interactive dashboards, and data-driven solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Data Analyst based in Ontario, Canada, with a background in Artificial Intelligence, Big Data Analytics, and software engineering.
+
+- 📊 I work with **Python, SQL, Excel, Power BI, and data visualization**
+- 🤖 Interested in **Machine Learning, AI, and intelligent data solutions**
+- 🧪 Experience with **software testing and QA automation**
+- 🔍 I enjoy transforming complex datasets into clear, actionable insights
+- 🌱 Currently expanding my portfolio through real-world analytics and AI projects
+- 💼 Open to opportunities in **Data Analytics, Business Intelligence, AI, and QA Automation**
+
+---
+
+## 🛠️ Technical Skills
+
+**Data Analytics & BI**  
+Python • SQL • Excel • Power BI • Pandas • NumPy
+
+**Machine Learning & AI**  
+Scikit-learn • Machine Learning • NLP • RAG • Azure AI
+
+**Databases & Big Data**  
+MySQL • MongoDB • Snowflake • AWS Glue • Athena • Redshift
+
+**Testing & Development**  
+Selenium • Postman • TestNG • Git • GitHub • Jupyter Notebook
+
+---
+
+## 🚀 Featured Projects
+
+I'm currently rebuilding my project portfolio with end-to-end data analytics, machine learning, and AI projects.
+
+**Projects coming soon.**
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: linkedin.com/in/akshai-biju
+
+📍 Ontario, Canada
