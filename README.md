@@ -36,7 +36,7 @@ I'm a Data Analyst based in Ontario, Canada, with a background in Artificial Int
 ### 🤖 Machine Learning & AI
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-ML-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge)
 ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🧪 Testing & Development
