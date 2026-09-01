@@ -2,16 +2,6 @@
   <img src="./Profile_Banner.png" alt="Akshai Biju - Data Analytics, Business Intelligence and Machine Learning" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Akshai Biju</h1>
-
-<h3 align="center">
-Data Analyst | Business Intelligence | Machine Learning
-</h3>
-
-<p align="center">
-Turning raw data into meaningful insights, interactive dashboards, and data-driven solutions.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
